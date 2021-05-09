@@ -1,23 +1,17 @@
-## Hi!!
-<p align="left"> 
+
+
+# Hi!
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kinpoko&count_private=true&show_icons=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=kinpoko&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinpoko&layout=compact&langs_count=8" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinpoko&layout=compact&langs_count=8" />
 </a>
-</p>
-<!--
-**kinpoko/kinpoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Recent Posts on [my blog](https://kinpokoblog.com)
+- [GitHub Actionsを使ってherokuへ自動デプロイ](https://kinpokoblog.com/show/13)
+- [1人でもチーム開発したい](https://kinpokoblog.com/show/12)
+- [独自ドメイン取ってみた](https://kinpokoblog.com/show/11)
+- [勉強したいこと](https://kinpokoblog.com/show/10)
+- [名前空間と関数名は自分の目でみたほうがよい](https://kinpokoblog.com/show/9)
