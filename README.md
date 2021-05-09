@@ -2,12 +2,9 @@
 
 # Hi!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=kinpoko&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinpoko&layout=compact&langs_count=8" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinpoko)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinpoko&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Posts on [my blog](https://kinpokoblog.com)
 - [GitHub Actionsを使ってherokuへ自動デプロイ](https://kinpokoblog.com/show/13)
