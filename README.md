@@ -1,9 +1,9 @@
-### Hi!!
+## Hi!!
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kinpoko&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kinpoko&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinpoko" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinpoko&layout=compact" />
 </a>
 
 <!--
