@@ -2,7 +2,7 @@ import textwrap
 import feedparser
 
 
-RSS_URL = 'https://kinpokoblog.com/rss.xml'
+RSS_URL = 'https://kinpokoblog.com/index.xml'
 GENERATE_FILE_NAME = 'README.md'
 
 def main():
