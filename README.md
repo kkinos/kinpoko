@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinpoko&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Recent Posts on [my blog](https://kinpokoblog.com)
+## Recent Posts on [My blog](https://kinpokoblog.com)
 - [Vercel+FastAPIでOGP画像を生成する](https://kinpokoblog.com/posts/ogp-image-with-vercel-fastapi/)
 - [HugoでOGP設定](https://kinpokoblog.com/posts/setting-up-ogp-in-hugo/)
 - [Vercel+FastAPIでのvercel.json](https://kinpokoblog.com/posts/vercel.json-with-vercel-fastapi/)
