@@ -18,7 +18,7 @@ def main():
     
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinpoko&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     
-    ## Recent Posts on [my blog](https://kinpokoblog.com)
+    ## Recent Posts on [My blog](https://kinpokoblog.com)
     """)
 
 
