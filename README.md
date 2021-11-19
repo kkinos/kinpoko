@@ -2,9 +2,9 @@
 
 # Hi!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinpoko)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinpoko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinpoko)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Posts on [My blog](https://kinpokoblog.com)
 - [Xinu x86をQEMUで実行する](https://kinpokoblog.com/posts/run-xinu-x86-on-qemu/)
