@@ -4,7 +4,7 @@
 
 I'm kinpoko!
 
-Kaisyain | Enjinia
+Kaishain | Enjinia
 
  ### Recent Posts on [My Blog](https://kinpokoblog.com)
 - [『RISC-VとChiselで学ぶ はじめてのCPU自作』を読んだ](https://kinpokoblog.com/posts/read-first-time-cpu-dev/)
