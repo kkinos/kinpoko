@@ -15,9 +15,7 @@ def main():
     ## Hi there :wave:
 
     I'm kinpoko!
-
-    Kaishain | Enjinia
-
+    
     ### Recent Posts on [My Blog](https://kinpokoblog.com)
     """)
 
